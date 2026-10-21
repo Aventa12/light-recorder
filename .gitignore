@@ -1,0 +1,11 @@
+# Generated application files, release artifacts and local recordings.
+/dist/
+/release/
+/verification/
+/tools/BuildIcon.exe
+/tools/*.log
+/assets/app.ico
+**/settings.json
+**/settings.json.tmp
+*.mp4
+*.log

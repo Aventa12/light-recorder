@@ -1,0 +1,13 @@
+* text=auto
+*.cs text eol=crlf
+*.ps1 text eol=crlf
+*.py text eol=lf
+*.md text eol=lf
+*.dll binary
+*.exe binary
+*.e32 binary
+*.e64 binary
+*.png binary
+*.ico binary
+*.zip binary
+*.issig -text
